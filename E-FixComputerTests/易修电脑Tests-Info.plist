@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>yixiudiannao</string>
+			</array>
+			<key>CFBundleURLName</key>
+			<string>com.gemptc.yixiudiannao</string>
+		</dict>
+	</array>
+	<key>Seller</key>
+	<string>2088011164114984</string>
+	<key>RSA public key</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCHpv8Knerm9BJr1/cLH+S8t5k/lAjv5p13CX0zJTOQviJGCBIMILxz9cw3iXovo1dQeVaHpwJ8Ldcuev8fOPebRuf6WhFc6gbzmPPWkVJD9Do3DJ69P8TcLawLyddV05vAgzDujcnnpOT+Ruisd1UX/i+LG+Bt6z6iCkJEoQfKAwIDAQAB</string>
+	<key>RSA private key</key>
+	<string>MIICeQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBALrzs+r6ktvFTVH6qAAxTyI+l5WqB89FEcxHV5blerqrX96ydRaigy/JYo6+XwrJqvy1X1ekGLO8041rLkbC/AV+cSMi43MC/xuZ30dWsNk4tfh4chRWHQw5OiZhqyg6lfHcKviH5CGiuOYOeCiRtLAOp4HeMkYHT/uXueOlH9y5AgMBAAECgYEAn3bSR6N2cwlne36/oHJu2nnjWKDQyoZSuRk9aBPTzLfzLYSxBR6XocI4VCOj9BKyy511ds8c1utA1AbRUUBuMFcnGWzaDardn9YUPPle5DbmDs3zOy3VbzuqeX5zVEBEFKjG/crzx8cqaQNyw6pVaBWYt5Yj7zEG804fVPFKQqUCQQDsWzFxKMgM7nVE4Ke53Eajw9UjbWJSbWikSfa8q569PbdEwzsiVvnN8fWAhgZf9f0BeVDN0CmOm/SSTI/miU9vAkEAyn1djldLWantg06YcWA49iPza8v2sEtypiwc8ACg3F0aEXu0Nd3jpsU1MWrlJhgit/YCW6sSGC887lflCBkCVwJBAOMLWvxT65AYhQgMMrKkuirYlOb6TYfW171x25Yz2kH5hhKE5EpBeKfv9SBoHrmRyF/hFNEQVMtMXu0mpNkVL/sCQQCBYywl6UffqoJ3VgB46chcF8rShclDC2LeJe/zuCMRzHf81fPoO7nc9cSwqCJ2fhOpQwxssNpmE8E2d3mE/B4PAkEAweVqdHtCLiVPaphcbYP4f70lBzpV/NoU+OB0pOcX28R7zwBYQaT14qiHqZLUkv7MGCMerUiIMmYbKG8f0ZUvLg==</string>
+	<key>Partner</key>
+	<string>2088011164114984</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>yixiudiannao</string>
+	<key>CFBundleIdentifier</key>
+	<string>-1.${PRODUCT_NAME:rfc1034identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+</dict>
+</plist>
